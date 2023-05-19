@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=DavideBri&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api?username=DavideBri&show_icons=true&theme=blueberry)
 
 ## 📩 Contact
 
